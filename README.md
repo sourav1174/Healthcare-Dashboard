@@ -1,7 +1,7 @@
 # 🏥 Healthcare Dashboard
 
-![Dashboard Overview]([image1.PNG](https://github.com/sourav1174/Healthcare-Dashboard/blob/main/images/image1.PNG))  
-![Detailed View]([image2.PNG](https://github.com/sourav1174/Healthcare-Dashboard/blob/main/images/image2.PNG))  
+![Dashboard Overview](https://github.com/sourav1174/Healthcare-Dashboard/blob/main/images/image1.PNG)  
+![Detailed View](https://github.com/sourav1174/Healthcare-Dashboard/blob/main/images/image2.PNG)
 
 ## 📌 Project Objective
 The main objective of this project is to build an **interactive Power BI Healthcare Dashboard** that helps track and analyze patient waiting lists across **Inpatient** and **Outpatient** categories.  
